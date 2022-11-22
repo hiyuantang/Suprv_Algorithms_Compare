@@ -1,2 +1,2 @@
-# Suprv_Algorithms_Compare
-Individual COGS 118A Project (Winter 2021)
+# An Empirical Algorithms Comparison
+An Individual COGS 118A Project (Winter 2021)
