@@ -4,6 +4,7 @@ The project investigates a machine learning algorithms’ performance comparison
 
 Final report is [here](https://github.com/holatangyuan/Suprv_Algorithms_Compare/blob/main/final_report.pdf)
 
+Statistical Preview:
 ![Screenshot_20221220_101913](https://user-images.githubusercontent.com/24949723/208738236-dd291e33-e8f6-438c-8ef6-6af3e85909d1.png)
 ![Screenshot_20221220_102056](https://user-images.githubusercontent.com/24949723/208738441-d8a2ba7a-83b6-46b1-81e1-33e230ebecb7.png)
 
